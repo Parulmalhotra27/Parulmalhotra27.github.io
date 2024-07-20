@@ -17,4 +17,11 @@ I'm passionate about coding and technology and thrive on merging conceptualizing
 
 
 
+## **Day 1 at college(INDUCTION PROGRAMME)**
+The first day of our college started from 10th July, first prayer was held in Gurudwara which lasted for an hour and was blissful and then we had snack break and after that we got the folders from the table of our respective branch and we went to the auditorium.
+
+
+
+
+
 
