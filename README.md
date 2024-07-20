@@ -1,6 +1,6 @@
 # **👋🏻Hey There! I'm Parul Malhotra**
 
-**Technology Enthusiast | Aspiring Astrophysicist | Creative Thinker**
+#### **Technology Enthusiast | Aspiring Astrophysicist | Creative Thinker**
 
 >_Exploring the cosmos with code: where the stars meet silicon and universe unfolds in lines of logic._
 
@@ -14,5 +14,7 @@ I'm passionate about coding and technology and thrive on merging conceptualizing
 
 #### I have successfully completed the "Exel for Beginners" course offered by Great Learning Academy.
 
-![CERTIFICATE](https://www.mygreatlearning.com/certificate/GASIELLC) 
+
+
+
 
