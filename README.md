@@ -12,7 +12,13 @@ I'm passionate about coding and technology and thrive on merging conceptualizing
 
 
 
-#### I have successfully completed the "Exel for Beginners" course offered by Great Learning Academy.
+
+### **🌱I will keep updating exciting things here.**
+
+
+
+
+#### ⭐I have successfully completed the "Exel for Beginners" course offered by Great Learning Academy.
 
 
 
